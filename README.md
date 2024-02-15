@@ -1,4 +1,4 @@
-#Ricky and Ethan's CS107E Final Project: Rubik's Cube Robot Solver
+Ricky and Ethan's CS107E Final Project: Rubik's Cube Robot Solver
 
 For our final project, we decided to build a Rubik's Cube solver. 
 The robot used six stepper motors to control each of the six faces of the cube. 
